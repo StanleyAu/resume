@@ -31,7 +31,7 @@ career-profile:
     title: Career Profile
     summary: |
       Full stack developer with a backend tilt, serially conscripted scrum master,
-      scalable services architect, and occasional Perl diver.
+      scalable services architect, pageable on-call, and occasional Perl diver.
 education:
     - degree: B.A.Sc. in Electrical Engineering
       university: University of Waterloo
@@ -82,4 +82,4 @@ skills:
         level: 60%
 
 footer: >
-    Thanks for visiting! <i class="fas fa-hand-peace"></i>
+    Thanks for visiting! <i class="fas fa-hand-peace"></i> 
