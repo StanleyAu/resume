@@ -45,7 +45,7 @@ experiences:
           - Architected and implemented extensible task management service using server-less AWS technologies, to replace and improve legacy services
           - Automated infrastructure and software deployments by meshing internal tools and AWS CloudFormation, obsoleting error-prone manual software deployment and infrastructure provisioning processes
           - Directed daily scrum activities, maintained scrum artifacts, drove micro-improvements via sprint retrospectives
-          - Co-ordinate UX improvements across functional groups to improve order tracking experience, resulting in over $10MM in annualized cost savings
+          - Co-ordinated UX improvements across functional groups to improve order tracking experience, resulting in over $10MM in annualized cost savings
     - role: Senior Software Analyst
       time: 2012 - 2015
       company: Genesys, Toronto
