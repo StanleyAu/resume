@@ -66,20 +66,20 @@ experiences:
           - Debugged critical issues relating to deadlocks, mem leaks using gdb, umdh, debugging tools
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Current toolkit
 
     toolset:
-      - name: Java
+      - name: Ruby
         level: 95%
 
-      - name: AWS
+      - name: GCP + Cloudflare
         level: 75%
 
-      - name: Scripting (Python, Ruby)
+      - name: Claude + Codex
         level: 75%
 
-      - name: HTML5 & CSS
-        level: 60%
+      - name: Typescript + React
+        level: 50%
 
 footer: >
     Thanks for visiting! <i class="fas fa-hand-peace"></i> 
