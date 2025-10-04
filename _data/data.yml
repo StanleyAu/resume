@@ -38,10 +38,10 @@ education:
 experiences:
     - role: Product Engineer
       time: 2022 - Present
-      company: Persona Identities, SF
+      company: Persona Identities, San Francisco
       details: |
         SWE @ Connect, previously Collections
-          - Designed, developed, and deployed an elastic load-shedding system to ensure high availability and resilience for large-scale Inquiries traffic
+          - Designed, developed, and deployed an elastic load-shedding system to ensure high availability and resilience for enterprise-scale Inquiries traffic
           - Built monitoring dashboards, improved alerting practices, and enhanced incident investigation workflows to strengthen system reliability
           - Led pilot projects exploring blockchain-based identity integrations, bridging decentralized credential systems with Persona’s identity platform
     - role: Senior Dev Engineer III (SDE3)
