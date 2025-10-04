@@ -13,7 +13,7 @@ sidebar:
     # Sidebar links
     website: StanleyAu.me #do not add http://
     linkedin: stanau
-    goodreads: 21797019-stanley
+    # goodreads: 21797019-stanley
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     interests:
@@ -30,7 +30,7 @@ career-profile:
     title: Career Profile
     summary: |
       Full stack developer with a backend tilt, serially conscripted scrum master,
-      scalable services architect, pageable on-call, and occasional Perl diver.
+      scalable services architect, pageable on-call, and expert bug sleuth.
 education:
     - degree: B.A.Sc. in Electrical Engineering
       university: University of Waterloo
