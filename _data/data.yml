@@ -36,11 +36,19 @@ education:
       university: University of Waterloo
       time: 2007 - 2012
 experiences:
+    - role: Product Engineer
+      time: 2022 - Present
+      company: Persona Identities, SF
+      details: |
+        SWE @ Connect, previously Collections
+          - Designed, developed, and deployed an elastic load-shedding system to ensure high availability and resilience for large-scale Inquiries traffic
+          - Built monitoring dashboards, improved alerting practices, and enhanced incident investigation workflows to strengthen system reliability
+          - Led pilot projects exploring blockchain-based identity integrations, bridging decentralized credential systems with Persona’s identity platform
     - role: Senior Dev Engineer III (SDE3)
-      time: 2015 - Present
+      time: 2015 - 2022
       company: Amazon, Toronto
       details: |
-        SDE3 @ Advertising, formerly Customer Engagement Tech, Alexa, Fulfillment By Amazon
+        SDE3 @ Advertising, previously Customer Engagement Tech, Alexa, Fulfillment By Amazon
           - Conceptualized and executed business logic versioning on managed data orchestration service, to eliminate deployment-related transient faults
           - Architected and implemented extensible task management service using server-less AWS technologies, to replace and improve legacy services
           - Automated infrastructure and software deployments by meshing internal tools and AWS CloudFormation, obsoleting error-prone manual software deployment and infrastructure provisioning processes
@@ -56,13 +64,6 @@ experiences:
           - Updated JS engine integration from SpiderMonkey 1.7 to 1.8.5 to facilitate new feature reqs
           - Integrated changes for I18N support, including configurable text transcoding and parsing of HTTP headers for charset
           - Debugged critical issues relating to deadlocks, mem leaks using gdb, umdh, debugging tools
-    - role: Intern Developer
-      time: Fall 2011
-      company: DemonWare, Vancouver
-      details: |
-        Capacity planning, Scaling, and Infrastructure (CSI)
-          - Designed and implemented `top`-like tool for monitoring service gateways for at-a-glance operational metrics, outage detection
-          - Developed automation and monitoring tools such as an SNMP-based Cisco VLAN config tool, and Apache log watcher
 
 skills:
     title: Skills &amp; Proficiency
